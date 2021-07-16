@@ -28,11 +28,13 @@ python3.6 main.py
 ## Notes
 
 **Audio settings:**
+
 All audio files are stored in otpy-framework\vo
 
 Custom audio files should be mono, resampled to 22050Hz, exported as .WAV - 16-bit PCM
 
 **Checkerboard:**
+
 Custom checkerboard is supported with slight changes to the below code in func.py line 18:
 ```python
 T = [["68", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
