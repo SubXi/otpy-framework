@@ -22,6 +22,7 @@ Python 3.6
 
 ## How to run
 git clone https://github.com/SubXi/otpy-framework.git
+
 python3.6 main.py
 
 ## Notes
