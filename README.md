@@ -29,6 +29,7 @@ python3.6 main.py
 
 **Audio settings:**
 All audio files are stored in otpy-framework\vo
+
 Custom audio files should be mono, resampled to 22050Hz, exported as .WAV - 16-bit PCM
 
 **Checkerboard:**
